@@ -8,7 +8,8 @@ Each domain lives in its own folder. Courses are organized by topic, then by ins
 
 | Domain | Topics |
 |--------|--------|
-| [Biology](./biology/) | Genomics, Virology, Immunology |
+| [Biology](./biology/) | Genomics, Virology, Immunology, Neuroscience |
+| [Finance](./finance/) | Financial Markets, Quantitative Finance |
 
 ## Contributing
 

@@ -7,3 +7,4 @@ Courses on biological sciences from MIT, Stanford, Harvard, and CMU.
 | [Genomics](./genomics.md) | Computational biology, bioinformatics, genome sequencing |
 | [Virology](./virology.md) | Virus biology, host-pathogen interactions, infectious disease |
 | [Immunology](./immunology.md) | Cellular and molecular immunity, immunotherapy |
+| [Neuroscience](./neuroscience.md) | Brain and behavior, cognitive and computational neuroscience |

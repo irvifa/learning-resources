@@ -4,8 +4,8 @@ Courses on cellular and molecular immunity, immune-related disease, and immunoth
 
 > **Access notes**
 > - MIT OCW: entirely free, no registration required (archived materials)
-> - Harvard HMX: fee-based (~$495–$1,025); not on edX or Coursera
 > - No verified standalone immunology MOOC was found for Stanford or CMU on Coursera/edX. Stanford's *Stories of Infection* (see [virology.md](./virology.md)) integrates immunology content.
+> - Harvard HMX offers paid immunology courses (~$495–$1,025) not listed here.
 
 ---
 
@@ -25,20 +25,3 @@ Courses on cellular and molecular immunity, immune-related disease, and immunoth
 - **Instructor:** Haiting Ma
 - **Description:** Cellular immunity in depth — cell death, immune cell signaling, and clinical applications including immune checkpoint blockade in cancer.
 
----
-
-## Harvard
-
-### HMX Immunology Fundamentals
-- **Platform:** Harvard Medical School HMX
-- **Level:** Introductory / Intermediate
-- **Link:** https://learn.hms.harvard.edu/programs/immunology-fundamentals
-- **Cost:** ~$1,025 (not free)
-- **Description:** Ten-week instructor-paced course covering innate and adaptive immunity, antigen recognition, vaccination, allergy, autoimmunity, and cancer immunology. Taught by HMS faculty; certificate awarded on completion.
-
-### HMX Immuno-Oncology
-- **Platform:** Harvard Medical School HMX
-- **Level:** Advanced
-- **Link:** https://learn.hms.harvard.edu/programs/immuno-oncology
-- **Cost:** ~$495 (not free)
-- **Description:** Interactions between cancer and the immune system — immune checkpoint blockade, CAR T-cell therapies, and tumor vaccines.
