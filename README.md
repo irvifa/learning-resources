@@ -1,6 +1,6 @@
 # Learning Resources
 
-A curated list of high-quality courses and reading material, organized by domain. The initial focus is biology (genomics, virology, immunology) from MIT, Stanford, Harvard, and CMU — but this will grow across disciplines.
+A curated list of high-quality courses and reading material, organized by domain. Covers biology, finance, math, and scientific computing from MIT, Stanford, Harvard, CMU, Georgia Tech, and other notable universities.
 
 ## How to Navigate
 
@@ -9,7 +9,11 @@ Each domain lives in its own folder. Courses are organized by topic, then by ins
 | Domain | Topics |
 |--------|--------|
 | [Biology](./biology/) | Genomics, Virology, Immunology, Neuroscience |
+| [Business](./business/) | Software Business, Entrepreneurship, Technology Management |
 | [Finance](./finance/) | Financial Markets, Quantitative Finance |
+| [Math for AI](./math-ai/) | Big Data & ML Mathematics, Gradient & Optimization |
+| [Scientific Computing](./scientific-computing/) | Scientific Programming, High Performance Computing |
+| [Systems Programming](./systems-programming/) | C, C++, Memory Management |
 
 ## Contributing
 
